@@ -1,0 +1,4 @@
+#Mon Oct 02 15:20:02 BST 2023
+configuration*?=8A849986FE755EE9FB4F80D8554E1E555AA63588
+module-resource*?\:checkstyle-xpath-suppressions.xml=87A6C8FE790C05FD43A2B92A31B3616391166595
+module-resource*?\:checkstyle-suppressions.xml=EAEF1C7516D9CA3C29C4CBB2D46760B961BEF41F

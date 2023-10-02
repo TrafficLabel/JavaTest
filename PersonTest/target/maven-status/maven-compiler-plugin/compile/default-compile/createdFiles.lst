@@ -1,0 +1,8 @@
+com/trafficlabel/dto/Person.class
+com/trafficlabel/dto/Person$PersonBuilder.class
+com/trafficlabel/service/PersonService.class
+com/trafficlabel/Test.class
+com/trafficlabel/service/PersonProvider.class
+com/trafficlabel/dto/Person$Address$AddressBuilder.class
+com/trafficlabel/dto/Person$Address.class
+com/trafficlabel/resource/PersonRestController.class

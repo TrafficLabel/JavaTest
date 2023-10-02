@@ -1,0 +1,9 @@
+#Mon Oct 02 15:20:02 BST 2023
+configuration*?=65BFF44ED46F62F377F80E0642566B9F32434C3E
+/home/adrian/code/gittest/JavaTest/PersonTest/src/main/java/com/trafficlabel/resource/PersonRestController.java=1696256077465
+/home/adrian/code/gittest/JavaTest/PersonTest/src/main/java/com/trafficlabel/Test.java=1696238642465
+/home/adrian/code/gittest/JavaTest/PersonTest/src/main/java/com/trafficlabel/dto/Person.java=1696256186314
+module-resource*?\:checkstyle-xpath-suppressions.xml=87A6C8FE790C05FD43A2B92A31B3616391166595
+module-resource*?\:checkstyle-suppressions.xml=EAEF1C7516D9CA3C29C4CBB2D46760B961BEF41F
+/home/adrian/code/gittest/JavaTest/PersonTest/src/main/java/com/trafficlabel/service/PersonProvider.java=1696253010541
+/home/adrian/code/gittest/JavaTest/PersonTest/src/main/java/com/trafficlabel/service/PersonService.java=1696256230203
